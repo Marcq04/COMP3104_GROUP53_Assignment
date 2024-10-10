@@ -8,3 +8,5 @@ it to production, which improves the overall efficiency of the development cycle
 By integrating tools for monitoring, testing, and deployment, DevOps ensures that every stage of the SDLC is streamlined, 
 leading to quicker releases and improved software quality. The collaboration between teams also minimizes risks and 
 allows for early detection of bugs and issues.
+
+Automation Tools: Incorporating automation tools in the Software Development Life Cycle (SDLC) is essential for increasing efficiency and reducing errors. Tools like Jenkins and GitLab CI streamline continuous integration and delivery, while Docker and Kubernetes enable consistent environment setups and scalability. Ansible and Terraform automate infrastructure provisioning, and Selenium facilitates automated testing. By integrating these tools, teams can ensure faster releases, improved collaboration, and higher-quality software development.
