@@ -5,3 +5,12 @@ focusing on automation, continuous integration (CI), and continuous delivery (CD
 Students learn how to use tools like Git, Jenkins, Docker, and Kubernetes to automate workflows and 
 streamline development processes. The course emphasizes collaboration between development and operations teams, 
 leading to faster software deployment and more efficient system management.
+
+Tools: In the COMP 3104 DevOps course, students get hands-on experience with a variety of essential tools used in the industry, including:
+
+Git for version control
+Jenkins for continuous integration and continuous delivery (CI/CD)
+Docker for containerization
+Kubernetes for container orchestration
+Ansible and Terraform for infrastructure automation
+AWS and Azure for cloud computing services
