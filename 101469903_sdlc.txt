@@ -10,3 +10,5 @@ leading to quicker releases and improved software quality. The collaboration bet
 allows for early detection of bugs and issues.
 
 Automation Tools: Incorporating automation tools in the Software Development Life Cycle (SDLC) is essential for increasing efficiency and reducing errors. Tools like Jenkins and GitLab CI streamline continuous integration and delivery, while Docker and Kubernetes enable consistent environment setups and scalability. Ansible and Terraform automate infrastructure provisioning, and Selenium facilitates automated testing. By integrating these tools, teams can ensure faster releases, improved collaboration, and higher-quality software development.
+
+DevOps Practices: DevOps practices in the Software Development Life Cycle (SDLC) emphasize collaboration between development and operations teams. By integrating practices such as continuous integration, continuous delivery, and automated testing, DevOps enhances communication, accelerates software delivery, and improves quality. This approach fosters a culture of shared responsibility and continuous improvement throughout the SDLC.
