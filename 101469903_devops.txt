@@ -14,3 +14,5 @@ Docker for containerization
 Kubernetes for container orchestration
 Ansible and Terraform for infrastructure automation
 AWS and Azure for cloud computing services
+
+CI/CD Processes: Continuous Integration (CI) and Continuous Delivery (CD) are core practices in DevOps that enhance software development efficiency. CI involves the frequent integration of code changes into a shared repository, enabling automated testing to identify issues early. CD extends this by automating the deployment process, allowing teams to release updates to production rapidly and reliably. Tools like Jenkins, Travis CI, and GitLab CI are commonly used to implement CI/CD pipelines, ensuring that software can be delivered to users quickly and with minimal manual intervention. This process fosters a culture of collaboration, reduces integration problems, and accelerates feedback loops.
