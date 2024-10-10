@@ -1,1 +1,9 @@
 George Brown College is a leading post-secondary institution located in Toronto, Canada, offering a wide range of programs in fields like business, technology, and design. The college is known for its practical, hands-on learning approach and strong industry partnerships that help students gain real-world experience.
+
+George Brown College is a public institution located in Toronto, Ontario. 
+It offers a wide range of programs across several fields including business, 
+health sciences, technology, and arts. The college was founded in 1967 and 
+has grown to include three main campuses: Casa Loma, St. James, and Waterfront.
+
+George Brown is known for its industry-focused programs that provide students with hands-on experience. 
+It offers degrees, diplomas, and certifications that prepare students for various careers in high-demand industries.
