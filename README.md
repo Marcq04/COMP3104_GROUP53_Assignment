@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Marcus Quitiquit (https://github.com/Marcq04) (101448926)
-- **Member 2:** Kadir Cinar (101469903)
+- **Member 2:** Kadir Cinar (https://github.com/KadirCinar9) (101469903)
 
 ## Project Description
 This repository contains the group assignment for COMP3104 DevOps course, which covers collaborative Git workflows, CI/CD integration using GitHub Actions, and branching strategies.
