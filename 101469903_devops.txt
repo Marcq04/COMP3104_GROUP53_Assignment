@@ -1,0 +1,24 @@
+The COMP 3104 DevOps course introduces students to the principles and practices of DevOps. It covers topics such as continuous integration, continuous delivery, automation, and cloud computing, enabling students to improve the efficiency and reliability of software development and operations.
+
+The COMP 3104 DevOps course at George Brown College covers the essential practices of DevOps, 
+focusing on automation, continuous integration (CI), and continuous delivery (CD). 
+Students learn how to use tools like Git, Jenkins, Docker, and Kubernetes to automate workflows and 
+streamline development processes. The course emphasizes collaboration between development and operations teams, 
+leading to faster software deployment and more efficient system management.
+
+Tools: In the COMP 3104 DevOps course, students get hands-on experience with a variety of essential tools used in the industry, including:
+
+Git for version control
+Jenkins for continuous integration and continuous delivery (CI/CD)
+Docker for containerization
+Kubernetes for container orchestration
+Ansible and Terraform for infrastructure automation
+AWS and Azure for cloud computing services
+
+CI/CD Processes: Continuous Integration (CI) and Continuous Delivery (CD) are core practices in DevOps that enhance software development efficiency. CI involves the frequent integration of code changes into a shared repository, enabling automated testing to identify issues early. CD extends this by automating the deployment process, allowing teams to release updates to production rapidly and reliably. Tools like Jenkins, Travis CI, and GitLab CI are commonly used to implement CI/CD pipelines, ensuring that software can be delivered to users quickly and with minimal manual intervention. This process fosters a culture of collaboration, reduces integration problems, and accelerates feedback loops.
+
+Netflix: Uses DevOps practices to achieve rapid deployment and continuous delivery. Their automated testing and deployment pipelines enable them to deploy thousands of changes daily, ensuring high availability and performance.
+
+Amazon: Implements DevOps to enhance its e-commerce platform's scalability and reliability. By utilizing continuous integration and delivery, Amazon can push updates frequently and with minimal downtime.
+
+Etsy: Focuses on continuous delivery, allowing them to deploy code changes multiple times a day. This practice helps them quickly respond to user feedback and improve the platform iteratively.
