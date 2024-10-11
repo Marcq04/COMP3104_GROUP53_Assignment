@@ -1,0 +1,4 @@
+Software Development Life Cycle
+The reason why we learn Dev Ops is for continuous development phases of planning and coding.
+Continuous Testing and many more crucial steps before deploying a software product on the web.
+That is the sdlc and the importance of a Dev Ops Developer.
