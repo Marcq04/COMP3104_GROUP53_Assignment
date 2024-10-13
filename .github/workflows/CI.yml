@@ -1,0 +1,46 @@
+name: Validate Project Submission
+
+on:
+  push:
+    branches:
+      - main  # Or your preferred branch
+
+jobs:
+  validate-submission:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Ensure each member has required files
+      run: |
+        for student in $(ls); do
+          if [[ -d "$student" ]]; then
+            # Check for required files
+            if [[ ! -f "$student/${student}_gb.txt" ]]; then
+              echo "Missing ${student}_gb.txt for $student"
+              exit 1
+            fi
+            if [[ ! -f "$student/${student}_sdlc.txt" ]]; then
+              echo "Missing ${student}_sdlc.txt for $student"
+              exit 1
+            fi
+            if [[ ! -f "$student/${student}_devops.txt" ]]; then
+              echo "Missing ${student}_devops.txt for $student"
+              exit 1
+            fi
+          fi
+        done
+
+    - name: Ensure each member has at least 10 commits
+      run: |
+        for student in $(ls); do
+          if [[ -d "$student" ]]; then
+            commit_count=$(git log --oneline --author="$student" | wc -l)
+            if [[ "$commit_count" -lt 10 ]]; then
+              echo "$student has less than 10 commits: $commit_count"
+              exit 1
+            fi
+          fi
+        done
